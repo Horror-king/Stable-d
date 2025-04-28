@@ -20,7 +20,7 @@ const API_CONFIG = {
   STABILITY_AI: {
     url: 'https://api.stability.ai/v1/generation/stable-diffusion-xl-1024-v1-0/text-to-image',
     headers: {
-      'Authorization': 'Bearer sk-2dzDcSBN1GU00n9yggE2EknkzkYNa9eYwn01l7GlIqsfZY5y',
+      'Authorization': 'Bearer sk-lJTeTkVEoKl9JbIcsJkJDFISroPvw1oOGMiKemTDDt9LuL3v',
       'Content-Type': 'application/json',
       'Accept': 'application/json'
     }
